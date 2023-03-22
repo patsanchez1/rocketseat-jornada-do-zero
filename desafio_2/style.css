@@ -1,0 +1,57 @@
+* {
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+body {
+  max-width: 1200px;
+  text-align: center;
+  padding-top: 275px;
+  background: url(./img/background-image_des2.jpg) no-repeat center;
+  background-size: cover;
+  height: 100vh;
+  background-position: center;
+}
+
+h1 {
+  font-family: Beth Ellen;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 120px;
+  padding-bottom: 4px;
+  color: #ebf1fb;
+}
+
+h1 span {
+  color: #5eead4;
+}
+
+p {
+  font-family: Spectral;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30.44px;
+  color: #ebf1fb;
+  padding-bottom: 72px;
+}
+
+a {
+  text-decoration: none;
+  font-family: Spectral;
+  font-weight: 600;
+  line-height: 24px;
+  padding: 16px 32px;
+}
+
+.infos {
+  font-size: 20px;
+  color: #ebf1fb;
+  text-decoration: underline;
+}
+
+.button {
+  font-size: 24px;
+  background-color: #5eead4;
+  border-radius: 8px;
+  color: #0b0c0e;
+}

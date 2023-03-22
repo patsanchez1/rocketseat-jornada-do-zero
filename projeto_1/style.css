@@ -1,0 +1,60 @@
+* {
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+body {
+  max-width: 1200px;
+  text-align: center;
+  padding-top: 160px;
+  background: url(./img/background-image.jpg) no-repeat center;
+  background-size: cover;
+  height: 100vh;
+  background-position: center;
+}
+
+h3 {
+  font-family: inter;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  margin-bottom: 4px;
+}
+
+h3 span {
+  color: #ffc700;
+}
+
+h1 {
+  font-family: Emilys Candy;
+  color: #ffc700;
+  font-weight: 400;
+  font-size: 64px;
+}
+
+p {
+  margin-bottom: 120px;
+  font-family: inter;
+  font-weight: 400;
+  font-size: 20px;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.info {
+  color: rgba(255, 255, 255, 0.6);
+  font-family: inter;
+  font-weight: 700;
+  font-size: 20px;
+  padding: 12px 32px;
+}
+
+.button {
+  color: rgba(4, 1, 1, 1);
+  background-color: #ffc700;
+  padding: 12px 32px;
+  font-family: inter;
+  font-weight: 700;
+  font-size: 20px;
+  text-decoration: none;
+  border-radius: 4px;
+}
